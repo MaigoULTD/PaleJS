@@ -1,0 +1,2 @@
+# PaleJS
+Palemoon Custom UserJS
